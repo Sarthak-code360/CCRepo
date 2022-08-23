@@ -1,0 +1,6 @@
+This is a wepon store
+
+Here all the wepons of the kingdom are collected and modified
+
+From here we can use them and check their ability.
+
